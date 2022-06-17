@@ -1,0 +1,11 @@
+- Tài khoảng đăng nhập
+admin: 
+	admin
+	123
+nhanvien:
+	nhanvien1
+	123
+
+- Thay đổi tên máy chủ SQL trong App.config (Tên máy chủ của em là DESKTOP-H91QHKR\SQLEXPRESS)
+
+- Tải và cài thư viện MaterialDesign vào Visual
